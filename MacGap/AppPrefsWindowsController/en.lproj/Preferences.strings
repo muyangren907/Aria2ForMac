@@ -1,0 +1,222 @@
+
+/* Class = "NSTextFieldCell"; title = "Default dir:"; ObjectID = "117"; */
+"117.title" = "Default dir:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "126"; */
+"126.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "128"; */
+"128.title" = "Other...";
+
+/* Class = "NSMenuItem"; title = "Downloads"; ObjectID = "129"; */
+"129.title" = "Downloads";
+
+/* Class = "NSTextFieldCell"; title = "port:"; ObjectID = "0vC-Jm-qNO"; */
+"0vC-Jm-qNO.title" = "port:";
+
+/* Class = "NSTextFieldCell"; title = "KiB/s"; ObjectID = "1ej-Eb-QEO"; */
+"1ej-Eb-QEO.title" = "KiB/s";
+
+/* Class = "NSTextFieldCell"; title = "Limit per task manually to:"; ObjectID = "49V-Nk-TT1"; */
+"49V-Nk-TT1.title" = "Limit per task manually to:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "20"; ObjectID = "4bb-gI-TSB"; */
+"4bb-gI-TSB.placeholderString" = "20";
+
+/* Class = "NSTextFieldCell"; title = "User:"; ObjectID = "4qh-6l-Ilz"; */
+"4qh-6l-Ilz.title" = "User:";
+
+/* Class = "NSTextFieldCell"; title = "Min split size:"; ObjectID = "5lb-wa-RPw"; */
+"5lb-wa-RPw.title" = "Min split size:";
+
+/* Class = "NSButtonCell"; title = "aria2.conf"; ObjectID = "832-C5-Sfe"; */
+"832-C5-Sfe.title" = "aria2.conf";
+
+/* Class = "NSTextFieldCell"; title = "Active downloads limits:"; ObjectID = "88w-eG-ha8"; */
+"88w-eG-ha8.title" = "Active downloads limits:";
+
+/* Class = "NSButtonCell"; title = "Use aria2 proxy setting"; ObjectID = "8Pk-FU-6Xp"; */
+"8Pk-FU-6Xp.title" = "Use aria2 proxy setting";
+
+/* Class = "NSTextFieldCell"; title = "proxy type:"; ObjectID = "8YF-kp-EsY"; */
+"8YF-kp-EsY.title" = "proxy type:";
+
+/* Class = "NSTextFieldCell"; title = "KiB/s"; ObjectID = "9gV-gw-ytQ"; */
+"9gV-gw-ytQ.title" = "KiB/s";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "A56-Wc-Rjs"; */
+"A56-Wc-Rjs.title" = "Continue";
+
+/* Class = "NSTextFieldCell"; title = "Limit total task manually to:"; ObjectID = "AOh-ke-qtx"; */
+"AOh-ke-qtx.title" = "Limit total task manually to:";
+
+/* Class = "NSTextFieldCell"; title = "Limit total task manually to:"; ObjectID = "Evh-K3-dsm"; */
+"Evh-K3-dsm.title" = "Limit total task manually to:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "GNw-FK-nhs"; */
+"GNw-FK-nhs.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Uploads:"; ObjectID = "Gks-l6-GFG"; */
+"Gks-l6-GFG.title" = "Uploads:";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "IAn-44-S1A"; */
+"IAn-44-S1A.title" = "Apply";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedIsNilPlaceholder" = "Downloads";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedMultipleValuesPlaceholder" = "Downloads";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedNoSelectionPlaceholder" = "Downloads";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedNotApplicablePlaceholder" = "Downloads";
+
+/* Class = "NSButtonCell"; title = "StatusBar mode"; ObjectID = "KJS-0L-A3z"; */
+"KJS-0L-A3z.title" = "StatusBar mode";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "Pyf-zG-CNG"; */
+"Pyf-zG-CNG.title" = "Apply";
+
+/* Class = "NSMenuItem"; title = "http"; ObjectID = "QEG-R6-03X"; */
+"QEG-R6-03X.title" = "http";
+
+/* Class = "NSButtonCell"; title = "Auto file renaming"; ObjectID = "Qhd-gT-Pq7"; */
+"Qhd-gT-Pq7.title" = "Auto file renaming";
+
+/* Class = "NSButtonCell"; title = "Allow overwrite"; ObjectID = "Qvw-kJ-nqb"; */
+"Qvw-kJ-nqb.title" = "Allow overwrite";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "TZX-XN-YQL"; */
+"TZX-XN-YQL.title" = "Apply";
+
+/* Class = "NSTextFieldCell"; placeholderString = "20"; ObjectID = "UrD-wc-wLp"; */
+"UrD-wc-wLp.placeholderString" = "20";
+
+/* Class = "NSMenuItem"; title = "ftp"; ObjectID = "V7S-nN-ddG"; */
+"V7S-nN-ddG.title" = "ftp";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "VCB-wJ-mVr"; */
+"VCB-wJ-mVr.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Max connection per server:"; ObjectID = "W0W-rJ-x9q"; */
+"W0W-rJ-x9q.title" = "Max connection per server:";
+
+/* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "X46-lo-tNU"; */
+"X46-lo-tNU.title" = "Split:";
+
+/* Class = "NSTextFieldCell"; title = "M"; ObjectID = "Yp2-YH-dhf"; */
+"Yp2-YH-dhf.title" = "M";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "ZHg-JR-I0K"; */
+"ZHg-JR-I0K.title" = "Password:";
+
+/* Class = "NSTextFieldCell"; title = "Check file:"; ObjectID = "ZrV-al-Lzx"; */
+"ZrV-al-Lzx.title" = "Log:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "bCu-Nv-jKL"; */
+"bCu-Nv-jKL.placeholderString" = "0";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedIsNilPlaceholder" = "10";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedMultipleValuesPlaceholder" = "10";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedNoSelectionPlaceholder" = "10";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedNotApplicablePlaceholder" = "10";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "dT5-Tx-ysl"; */
+"dT5-Tx-ysl.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Limit per task manually to:"; ObjectID = "dXT-AI-jTL"; */
+"dXT-AI-jTL.title" = "Limit per task manually to:";
+
+/* Class = "NSTextFieldCell"; title = "MB/s"; ObjectID = "dXb-4E-P43"; */
+"dXb-4E-P43.title" = "MB/s";
+
+/* Class = "NSTextFieldCell"; placeholderString = "10"; ObjectID = "fgY-n4-NQ5"; */
+"fgY-n4-NQ5.placeholderString" = "10";
+
+/* Class = "NSTextFieldCell"; title = "Behaviour:"; ObjectID = "fh2-nT-3S8"; */
+"fh2-nT-3S8.title" = "Behaviour:";
+
+/* Class = "NSTextFieldCell"; title = "Statusbar："; ObjectID = "hl7-Rr-MFl"; */
+"hl7-Rr-MFl.title" = "Statusbar：";
+
+/* Class = "NSButtonCell"; title = "Verify user"; ObjectID = "k0L-JY-Tq5"; */
+"k0L-JY-Tq5.title" = "Verify user";
+
+/* Class = "NSTextFieldCell"; title = "Disk cache:"; ObjectID = "kJ7-JL-iSI"; */
+"kJ7-JL-iSI.title" = "Disk cache:";
+
+/* Class = "NSMenuItem"; title = "all"; ObjectID = "kiY-EY-8wZ"; */
+"kiY-EY-8wZ.title" = "all";
+
+/* Class = "NSTextFieldCell"; title = "M"; ObjectID = "mYE-L2-jd2"; */
+"mYE-L2-jd2.title" = "K";
+
+/* Class = "NSButtonCell"; title = "aria2.log"; ObjectID = "mmv-rt-tMe"; */
+"mmv-rt-tMe.title" = "aria2.log";
+
+/* Class = "NSTextFieldCell"; placeholderString = "10"; ObjectID = "o23-73-hSH"; */
+"o23-73-hSH.placeholderString" = "10";
+
+/* Class = "NSMenuItem"; title = "https"; ObjectID = "oDS-9K-aLC"; */
+"oDS-9K-aLC.title" = "https";
+
+/* Class = "NSTextFieldCell"; title = "Queues:"; ObjectID = "oKT-rt-rLd"; */
+"oKT-rt-rLd.title" = "Queues:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "or6-78-3ht"; */
+"or6-78-3ht.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "MB/s"; ObjectID = "qLB-4Y-oRO"; */
+"qLB-4Y-oRO.title" = "MB/s";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "qeL-iq-XuQ"; */
+"qeL-iq-XuQ.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Downloads:"; ObjectID = "r31-2K-MMc"; */
+"r31-2K-MMc.title" = "Downloads:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "20"; ObjectID = "rHo-Sw-UC5"; */
+"rHo-Sw-UC5.ibShadowedIsNilPlaceholder" = "20";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "20"; ObjectID = "rHo-Sw-UC5"; */
+"rHo-Sw-UC5.ibShadowedMultipleValuesPlaceholder" = "20";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "20"; ObjectID = "rHo-Sw-UC5"; */
+"rHo-Sw-UC5.ibShadowedNoSelectionPlaceholder" = "20";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "20"; ObjectID = "rHo-Sw-UC5"; */
+"rHo-Sw-UC5.ibShadowedNotApplicablePlaceholder" = "20";
+
+/* Class = "NSTextFieldCell"; title = "address:"; ObjectID = "tvh-a1-S4W"; */
+"tvh-a1-S4W.title" = "address:";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "uEq-P6-2ev"; */
+"uEq-P6-2ev.title" = "Cache:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "20"; ObjectID = "uxc-af-AhC"; */
+"uxc-af-AhC.ibShadowedIsNilPlaceholder" = "20";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "20"; ObjectID = "uxc-af-AhC"; */
+"uxc-af-AhC.ibShadowedMultipleValuesPlaceholder" = "20";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "20"; ObjectID = "uxc-af-AhC"; */
+"uxc-af-AhC.ibShadowedNoSelectionPlaceholder" = "20";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "20"; ObjectID = "uxc-af-AhC"; */
+"uxc-af-AhC.ibShadowedNotApplicablePlaceholder" = "20";
+
+"General1" = "General";
+
+"Web1" = "web";
+
+"proxy1" = "proxy";

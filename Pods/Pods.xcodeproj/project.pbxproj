@@ -1,0 +1,541 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		058310FE5B75060F3562F9D20EEC0378 /* CCNStatusItemWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 06163A0B785C4F2666FFCE6FF45682AE /* CCNStatusItemWindowController.m */; };
+		1A3DE833A71CE3BEEC0F3C61F7FD12FD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF428FC7C7A6555B2B02D8E238C8D8F2 /* Cocoa.framework */; };
+		1F05849CF9B4980829FB1CD5F453B0EB /* CCNStatusItemWindowController.h in Headers */ = {isa = PBXBuildFile; fileRef = 286B573787A16197DA71AB2E1383D03F /* CCNStatusItemWindowController.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		4F5A224D1401FD1721F790CE4E8BC7A8 /* CCNStatusItemWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = E97020198E8D9BCAC29AAC8E58AD9635 /* CCNStatusItemWindow.m */; };
+		50CEE2777BA898635459CC49640B5D35 /* CCNStatusItemDropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B09293B998775016336FEBD4BF394C9 /* CCNStatusItemDropView.m */; };
+		645DC2E86E12FA116BA07B745B034F44 /* CCNStatusItem.m in Sources */ = {isa = PBXBuildFile; fileRef = A8724F02DFD68083115DEBC5B720107B /* CCNStatusItem.m */; };
+		8BD78ABC1805A2C9BC9343D563CB3562 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF428FC7C7A6555B2B02D8E238C8D8F2 /* Cocoa.framework */; };
+		AA9EDAC72583FB663AB0E0868824ACA0 /* CCNStatusItem-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C5A90B5C9E54B6F96E31062EBD4C1959 /* CCNStatusItem-dummy.m */; };
+		B9AEA2C5EB0D9A68EA47349F220E5648 /* CCNStatusItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EFD1B1B7339D2892DEC3397FE7647F8 /* CCNStatusItem.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		BC1A3D41B59FA81526802B59D72EFE7A /* CCNStatusItemWindowBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = 979034DB410000B61B111DDD44B761F0 /* CCNStatusItemWindowBackgroundView.m */; };
+		C43B472CABAA029F0E81CC95ED377DD2 /* Pods-Aria2ForMac-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ED5017C8625208E7344D3C2483D3A16 /* Pods-Aria2ForMac-dummy.m */; };
+		DE02CD53CD9C388E43DDC5E4671FF013 /* CCNStatusItemDropView.h in Headers */ = {isa = PBXBuildFile; fileRef = 93F456487F09D439BA88372D71577A95 /* CCNStatusItemDropView.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		E3ED6F80D2170B952D77D974F298380C /* CCNStatusItemWindowConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 96C7C0C1D7DD1F8470D092D13A772AA1 /* CCNStatusItemWindowConfiguration.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F41177014C76559070AE1C8E9D3D40BB /* CCNStatusItemWindowBackgroundView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9159CC45DF2A9F29137A4E012AF637C4 /* CCNStatusItemWindowBackgroundView.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F740B3A89982A2DF99CC881830D8CDCE /* CCNStatusItemWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = F62722B358D263322926972933756402 /* CCNStatusItemWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F7F6361B32EB796DF2EDE4466382D262 /* CCNStatusItemWindowConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E98268B0A71A8D87AF1E24818544E92 /* CCNStatusItemWindowConfiguration.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4613664E6CE4B518696B2FE135337C2D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E72DC4E6455E5C98C8982DA9117987AF;
+			remoteInfo = CCNStatusItem;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		06163A0B785C4F2666FFCE6FF45682AE /* CCNStatusItemWindowController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CCNStatusItemWindowController.m; path = CCNStatusItem/CCNStatusItemWindowController.m; sourceTree = "<group>"; };
+		0ED5017C8625208E7344D3C2483D3A16 /* Pods-Aria2ForMac-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Aria2ForMac-dummy.m"; sourceTree = "<group>"; };
+		1E0EB2055791EE0B3A345318C1CF7DC6 /* CCNStatusItem.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CCNStatusItem.xcconfig; sourceTree = "<group>"; };
+		23C93394734E23D177209A5C849ABCC5 /* Pods-Aria2ForMac.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Aria2ForMac.debug.xcconfig"; sourceTree = "<group>"; };
+		286B573787A16197DA71AB2E1383D03F /* CCNStatusItemWindowController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CCNStatusItemWindowController.h; path = CCNStatusItem/CCNStatusItemWindowController.h; sourceTree = "<group>"; };
+		29DDBC1B41E7229305306F3D9B06E097 /* Pods-Aria2ForMac.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Aria2ForMac.release.xcconfig"; sourceTree = "<group>"; };
+		2B09293B998775016336FEBD4BF394C9 /* CCNStatusItemDropView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CCNStatusItemDropView.m; path = CCNStatusItem/CCNStatusItemDropView.m; sourceTree = "<group>"; };
+		30242B86CFB30E82DAD43EDD0216CDD9 /* CCNStatusItem-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CCNStatusItem-prefix.pch"; sourceTree = "<group>"; };
+		54446BB73B18B2B76B6F01407A5C1279 /* libCCNStatusItem.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libCCNStatusItem.a; path = libCCNStatusItem.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		5879A4CEBFFF02A5010D83FB01F0B490 /* Pods-Aria2ForMac-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Aria2ForMac-acknowledgements.plist"; sourceTree = "<group>"; };
+		5A23B3589817D4F77409B4BAB42E7D67 /* Pods-Aria2ForMac-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Aria2ForMac-frameworks.sh"; sourceTree = "<group>"; };
+		5E98268B0A71A8D87AF1E24818544E92 /* CCNStatusItemWindowConfiguration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CCNStatusItemWindowConfiguration.m; path = CCNStatusItem/CCNStatusItemWindowConfiguration.m; sourceTree = "<group>"; };
+		5EFD1B1B7339D2892DEC3397FE7647F8 /* CCNStatusItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CCNStatusItem.h; path = CCNStatusItem/CCNStatusItem.h; sourceTree = "<group>"; };
+		5FDDA05F8027CC7F415E272BB8F197D7 /* libPods-Aria2ForMac.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Aria2ForMac.a"; path = "libPods-Aria2ForMac.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9159CC45DF2A9F29137A4E012AF637C4 /* CCNStatusItemWindowBackgroundView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CCNStatusItemWindowBackgroundView.h; path = CCNStatusItem/CCNStatusItemWindowBackgroundView.h; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93F456487F09D439BA88372D71577A95 /* CCNStatusItemDropView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CCNStatusItemDropView.h; path = CCNStatusItem/CCNStatusItemDropView.h; sourceTree = "<group>"; };
+		96C7C0C1D7DD1F8470D092D13A772AA1 /* CCNStatusItemWindowConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CCNStatusItemWindowConfiguration.h; path = CCNStatusItem/CCNStatusItemWindowConfiguration.h; sourceTree = "<group>"; };
+		979034DB410000B61B111DDD44B761F0 /* CCNStatusItemWindowBackgroundView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CCNStatusItemWindowBackgroundView.m; path = CCNStatusItem/CCNStatusItemWindowBackgroundView.m; sourceTree = "<group>"; };
+		A8724F02DFD68083115DEBC5B720107B /* CCNStatusItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CCNStatusItem.m; path = CCNStatusItem/CCNStatusItem.m; sourceTree = "<group>"; };
+		BB5B7ED52F882D3E8D19CC7DCC5F9076 /* Pods-Aria2ForMac-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Aria2ForMac-acknowledgements.markdown"; sourceTree = "<group>"; };
+		BCD4BF1F4A7B286A2E57F212D6B7B783 /* Pods-Aria2ForMac-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Aria2ForMac-resources.sh"; sourceTree = "<group>"; };
+		C5A90B5C9E54B6F96E31062EBD4C1959 /* CCNStatusItem-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CCNStatusItem-dummy.m"; sourceTree = "<group>"; };
+		DF428FC7C7A6555B2B02D8E238C8D8F2 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
+		E97020198E8D9BCAC29AAC8E58AD9635 /* CCNStatusItemWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CCNStatusItemWindow.m; path = CCNStatusItem/CCNStatusItemWindow.m; sourceTree = "<group>"; };
+		F62722B358D263322926972933756402 /* CCNStatusItemWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CCNStatusItemWindow.h; path = CCNStatusItem/CCNStatusItemWindow.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		288E809A068EA0FC6B3A6304590E5F4D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BD78ABC1805A2C9BC9343D563CB3562 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F715B56423E9B6D3567D572B9DFD8EF1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A3DE833A71CE3BEEC0F3C61F7FD12FD /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		020F391E69F80B5CD7B2B34DE6E0ECF4 /* Pods-Aria2ForMac */ = {
+			isa = PBXGroup;
+			children = (
+				BB5B7ED52F882D3E8D19CC7DCC5F9076 /* Pods-Aria2ForMac-acknowledgements.markdown */,
+				5879A4CEBFFF02A5010D83FB01F0B490 /* Pods-Aria2ForMac-acknowledgements.plist */,
+				0ED5017C8625208E7344D3C2483D3A16 /* Pods-Aria2ForMac-dummy.m */,
+				5A23B3589817D4F77409B4BAB42E7D67 /* Pods-Aria2ForMac-frameworks.sh */,
+				BCD4BF1F4A7B286A2E57F212D6B7B783 /* Pods-Aria2ForMac-resources.sh */,
+				23C93394734E23D177209A5C849ABCC5 /* Pods-Aria2ForMac.debug.xcconfig */,
+				29DDBC1B41E7229305306F3D9B06E097 /* Pods-Aria2ForMac.release.xcconfig */,
+			);
+			name = "Pods-Aria2ForMac";
+			path = "Target Support Files/Pods-Aria2ForMac";
+			sourceTree = "<group>";
+		};
+		0B2D203E85F925DC7683A58FB52AD214 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B7586023566B7238D49F1F1B9BC9401D /* CCNStatusItem */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		37623F4B43C9D7A6EFB3DD054D656402 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				54446BB73B18B2B76B6F01407A5C1279 /* libCCNStatusItem.a */,
+				5FDDA05F8027CC7F415E272BB8F197D7 /* libPods-Aria2ForMac.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		39E9EE8210D861DFD82346C1F5EB7218 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FA7AC8429882A95AA0810A9DCDED54FF /* OS X */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		64E4C127B9E2FDDCCB200CB1716FCCBF /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1E0EB2055791EE0B3A345318C1CF7DC6 /* CCNStatusItem.xcconfig */,
+				C5A90B5C9E54B6F96E31062EBD4C1959 /* CCNStatusItem-dummy.m */,
+				30242B86CFB30E82DAD43EDD0216CDD9 /* CCNStatusItem-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/CCNStatusItem";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				39E9EE8210D861DFD82346C1F5EB7218 /* Frameworks */,
+				0B2D203E85F925DC7683A58FB52AD214 /* Pods */,
+				37623F4B43C9D7A6EFB3DD054D656402 /* Products */,
+				FECCF136DEAC83D838A9A332DC20C3DD /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		B7586023566B7238D49F1F1B9BC9401D /* CCNStatusItem */ = {
+			isa = PBXGroup;
+			children = (
+				5EFD1B1B7339D2892DEC3397FE7647F8 /* CCNStatusItem.h */,
+				A8724F02DFD68083115DEBC5B720107B /* CCNStatusItem.m */,
+				93F456487F09D439BA88372D71577A95 /* CCNStatusItemDropView.h */,
+				2B09293B998775016336FEBD4BF394C9 /* CCNStatusItemDropView.m */,
+				F62722B358D263322926972933756402 /* CCNStatusItemWindow.h */,
+				E97020198E8D9BCAC29AAC8E58AD9635 /* CCNStatusItemWindow.m */,
+				9159CC45DF2A9F29137A4E012AF637C4 /* CCNStatusItemWindowBackgroundView.h */,
+				979034DB410000B61B111DDD44B761F0 /* CCNStatusItemWindowBackgroundView.m */,
+				96C7C0C1D7DD1F8470D092D13A772AA1 /* CCNStatusItemWindowConfiguration.h */,
+				5E98268B0A71A8D87AF1E24818544E92 /* CCNStatusItemWindowConfiguration.m */,
+				286B573787A16197DA71AB2E1383D03F /* CCNStatusItemWindowController.h */,
+				06163A0B785C4F2666FFCE6FF45682AE /* CCNStatusItemWindowController.m */,
+				64E4C127B9E2FDDCCB200CB1716FCCBF /* Support Files */,
+			);
+			name = CCNStatusItem;
+			path = CCNStatusItem;
+			sourceTree = "<group>";
+		};
+		FA7AC8429882A95AA0810A9DCDED54FF /* OS X */ = {
+			isa = PBXGroup;
+			children = (
+				DF428FC7C7A6555B2B02D8E238C8D8F2 /* Cocoa.framework */,
+			);
+			name = "OS X";
+			sourceTree = "<group>";
+		};
+		FECCF136DEAC83D838A9A332DC20C3DD /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				020F391E69F80B5CD7B2B34DE6E0ECF4 /* Pods-Aria2ForMac */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		3604C30FB7AEBFE05BDF9F6C4291A3CC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9AEA2C5EB0D9A68EA47349F220E5648 /* CCNStatusItem.h in Headers */,
+				DE02CD53CD9C388E43DDC5E4671FF013 /* CCNStatusItemDropView.h in Headers */,
+				F740B3A89982A2DF99CC881830D8CDCE /* CCNStatusItemWindow.h in Headers */,
+				F41177014C76559070AE1C8E9D3D40BB /* CCNStatusItemWindowBackgroundView.h in Headers */,
+				E3ED6F80D2170B952D77D974F298380C /* CCNStatusItemWindowConfiguration.h in Headers */,
+				1F05849CF9B4980829FB1CD5F453B0EB /* CCNStatusItemWindowController.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		B8F2A910BE54FBA8A94CE17E6457E429 /* Pods-Aria2ForMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C8F50EC61890C0C9D97C0635B7F5F38D /* Build configuration list for PBXNativeTarget "Pods-Aria2ForMac" */;
+			buildPhases = (
+				4D7230CCA56108AD5B13C46F6E28CE2D /* Sources */,
+				288E809A068EA0FC6B3A6304590E5F4D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DC242C89C71FB00AEE406893B063A798 /* PBXTargetDependency */,
+			);
+			name = "Pods-Aria2ForMac";
+			productName = "Pods-Aria2ForMac";
+			productReference = 5FDDA05F8027CC7F415E272BB8F197D7 /* libPods-Aria2ForMac.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		E72DC4E6455E5C98C8982DA9117987AF /* CCNStatusItem */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57031048232D9130A1EBBD08741E76D9 /* Build configuration list for PBXNativeTarget "CCNStatusItem" */;
+			buildPhases = (
+				B97D8C8D8D9A8657CFE40D9A1AA446C9 /* Sources */,
+				F715B56423E9B6D3567D572B9DFD8EF1 /* Frameworks */,
+				3604C30FB7AEBFE05BDF9F6C4291A3CC /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CCNStatusItem;
+			productName = CCNStatusItem;
+			productReference = 54446BB73B18B2B76B6F01407A5C1279 /* libCCNStatusItem.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 37623F4B43C9D7A6EFB3DD054D656402 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E72DC4E6455E5C98C8982DA9117987AF /* CCNStatusItem */,
+				B8F2A910BE54FBA8A94CE17E6457E429 /* Pods-Aria2ForMac */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4D7230CCA56108AD5B13C46F6E28CE2D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C43B472CABAA029F0E81CC95ED377DD2 /* Pods-Aria2ForMac-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B97D8C8D8D9A8657CFE40D9A1AA446C9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA9EDAC72583FB663AB0E0868824ACA0 /* CCNStatusItem-dummy.m in Sources */,
+				645DC2E86E12FA116BA07B745B034F44 /* CCNStatusItem.m in Sources */,
+				50CEE2777BA898635459CC49640B5D35 /* CCNStatusItemDropView.m in Sources */,
+				4F5A224D1401FD1721F790CE4E8BC7A8 /* CCNStatusItemWindow.m in Sources */,
+				BC1A3D41B59FA81526802B59D72EFE7A /* CCNStatusItemWindowBackgroundView.m in Sources */,
+				F7F6361B32EB796DF2EDE4466382D262 /* CCNStatusItemWindowConfiguration.m in Sources */,
+				058310FE5B75060F3562F9D20EEC0378 /* CCNStatusItemWindowController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DC242C89C71FB00AEE406893B063A798 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CCNStatusItem;
+			target = E72DC4E6455E5C98C8982DA9117987AF /* CCNStatusItem */;
+			targetProxy = 4613664E6CE4B518696B2FE135337C2D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		568F5E7BAD86EADA9094BF721CFE41F7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 23C93394734E23D177209A5C849ABCC5 /* Pods-Aria2ForMac.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				EXECUTABLE_PREFIX = lib;
+				MACH_O_TYPE = staticlib;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		63E07E6A93A65027FA96F25341D6444D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1E0EB2055791EE0B3A345318C1CF7DC6 /* CCNStatusItem.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				EXECUTABLE_PREFIX = lib;
+				GCC_PREFIX_HEADER = "Target Support Files/CCNStatusItem/CCNStatusItem-prefix.pch";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+			};
+			name = Release;
+		};
+		7776E8668CCA96B6A01D370004E6DE01 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		7E0B739F65CE58FB5DCCBE0264830710 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 29DDBC1B41E7229305306F3D9B06E097 /* Pods-Aria2ForMac.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				EXECUTABLE_PREFIX = lib;
+				MACH_O_TYPE = staticlib;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		8609651D963F7BEC7028306B76B8D545 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		EBE297397A07E1623297DB1C8D2306C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1E0EB2055791EE0B3A345318C1CF7DC6 /* CCNStatusItem.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				EXECUTABLE_PREFIX = lib;
+				GCC_PREFIX_HEADER = "Target Support Files/CCNStatusItem/CCNStatusItem-prefix.pch";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7776E8668CCA96B6A01D370004E6DE01 /* Debug */,
+				8609651D963F7BEC7028306B76B8D545 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57031048232D9130A1EBBD08741E76D9 /* Build configuration list for PBXNativeTarget "CCNStatusItem" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBE297397A07E1623297DB1C8D2306C2 /* Debug */,
+				63E07E6A93A65027FA96F25341D6444D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C8F50EC61890C0C9D97C0635B7F5F38D /* Build configuration list for PBXNativeTarget "Pods-Aria2ForMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				568F5E7BAD86EADA9094BF721CFE41F7 /* Debug */,
+				7E0B739F65CE58FB5DCCBE0264830710 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

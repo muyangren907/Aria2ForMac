@@ -1,0 +1,141 @@
+
+/* Class = "NSTextFieldCell"; title = "Put new downloads in:"; ObjectID = "117"; */
+"117.title" = "默认存储路径:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "126"; */
+"126.title" = "其它视窗";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "128"; */
+"128.title" = "其他...";
+
+/* Class = "NSMenuItem"; title = "Downloads"; ObjectID = "129"; */
+"129.title" = "下载";
+
+/* Class = "NSTextFieldCell"; title = "port:"; ObjectID = "0vC-Jm-qNO"; */
+"0vC-Jm-qNO.title" = "端口:";
+
+/* Class = "NSTextFieldCell"; title = "KiB/s"; ObjectID = "1ej-Eb-QEO"; */
+"1ej-Eb-QEO.title" = "KiB/s";
+
+/* Class = "NSTextFieldCell"; title = "Limit per task manually to:"; ObjectID = "49V-Nk-TT1"; */
+"49V-Nk-TT1.title" = "单任务最大速度:";
+
+/* Class = "NSTextFieldCell"; title = "User:"; ObjectID = "4qh-6l-Ilz"; */
+"4qh-6l-Ilz.title" = "用户名:";
+
+/* Class = "NSComboBoxCell"; 7Qw-mv-9ra.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "7Qw-mv-9ra"; */
+"7Qw-mv-9ra.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 7Qw-mv-9ra.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "7Qw-mv-9ra"; */
+"7Qw-mv-9ra.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 7Qw-mv-9ra.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "7Qw-mv-9ra"; */
+"7Qw-mv-9ra.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Open"; ObjectID = "832-C5-Sfe"; */
+"832-C5-Sfe.title" = "打开";
+
+/* Class = "NSTextFieldCell"; title = "Active downloads limits"; ObjectID = "88w-eG-ha8"; */
+"88w-eG-ha8.title" = "同时运行最大任务数";
+
+/* Class = "NSTextFieldCell"; title = "Proxy type:"; ObjectID = "8YF-kp-EsY"; */
+"8YF-kp-EsY.title" = "代理类型:";
+
+/* Class = "NSTextFieldCell"; title = "KiB/s"; ObjectID = "9gV-gw-ytQ"; */
+"9gV-gw-ytQ.title" = "KiB/s";
+
+/* Class = "NSTextFieldCell"; title = "Limit total task manually to:"; ObjectID = "AOh-ke-qtx"; */
+"AOh-ke-qtx.title" = "全局最大速度:";
+
+/* Class = "NSTextFieldCell"; title = "[0:unlimited,  apply required]"; ObjectID = "BYC-hh-uOA"; */
+"BYC-hh-uOA.title" = "[0:没有限制,  需要应用]";
+
+/* Class = "NSTextFieldCell"; title = "Limit total task manually to:"; ObjectID = "Evh-K3-dsm"; */
+"Evh-K3-dsm.title" = "全局最大速度:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "GNw-FK-nhs"; */
+"GNw-FK-nhs.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Uploads:"; ObjectID = "Gks-l6-GFG"; */
+"Gks-l6-GFG.title" = "上传:";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "IAn-44-S1A"; */
+"IAn-44-S1A.title" = "应用";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedIsNilPlaceholder" = "下载";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedMultipleValuesPlaceholder" = "下载";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedNoSelectionPlaceholder" = "下载";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Downloads"; ObjectID = "Ju7-fF-mvk"; */
+"Ju7-fF-mvk.ibShadowedNotApplicablePlaceholder" = "下载";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "Pyf-zG-CNG"; */
+"Pyf-zG-CNG.title" = "应用";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "TZX-XN-YQL"; */
+"TZX-XN-YQL.title" = "应用";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "ZHg-JR-I0K"; */
+"ZHg-JR-I0K.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Edit aria2.conf file:"; ObjectID = "ZrV-al-Lzx"; */
+"ZrV-al-Lzx.title" = "编辑aria2.conf:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "bCu-Nv-jKL"; */
+"bCu-Nv-jKL.placeholderString" = "0";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedIsNilPlaceholder" = "10";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedMultipleValuesPlaceholder" = "10";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedNoSelectionPlaceholder" = "10";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "10"; ObjectID = "bKz-Ry-q3F"; */
+"bKz-Ry-q3F.ibShadowedNotApplicablePlaceholder" = "10";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "dT5-Tx-ysl"; */
+"dT5-Tx-ysl.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Limit per task manually to:"; ObjectID = "dXT-AI-jTL"; */
+"dXT-AI-jTL.title" = "单任务最大速度:";
+
+/* Class = "NSTextFieldCell"; title = "KiB/s"; ObjectID = "dXb-4E-P43"; */
+"dXb-4E-P43.title" = "KiB/s";
+
+/* Class = "NSTextFieldCell"; placeholderString = "10"; ObjectID = "fgY-n4-NQ5"; */
+"fgY-n4-NQ5.placeholderString" = "10";
+
+/* Class = "NSTextFieldCell"; title = "Queues:"; ObjectID = "oKT-rt-rLd"; */
+"oKT-rt-rLd.title" = "队列:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "or6-78-3ht"; */
+"or6-78-3ht.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "KiB/s"; ObjectID = "qLB-4Y-oRO"; */
+"qLB-4Y-oRO.title" = "KiB/s";
+
+/* Class = "NSTextFieldCell"; title = "Downloads:"; ObjectID = "r31-2K-MMc"; */
+"r31-2K-MMc.title" = "下载:";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "tvh-a1-S4W"; */
+"tvh-a1-S4W.title" = "地址:";
+
+"General1" = "通用";
+"Bandwidth1" = "带宽";
+"proxy1" = "代理";
+
+"8Pk-FU-6Xp.title" = "使用代理设置";
+
+"k0L-JY-Tq5.title" = "验证用户";
+
+"vxM-KU-lO8.title" = "[默认不使用代理设置,需要应用]";
+
+
